@@ -7,7 +7,7 @@ namespace Add_2_Numbers.Controllers
     [Route("[controller]")]
     public class AddTwoNumbers : ControllerBase
     {
-        [HttpGet]
+        [HttpPost]
         [Route("Adding")]
 
         public string addTwoNumbers(int num1, int num2)
