@@ -1,0 +1,6 @@
+@Add_2_Numbers_HostAddress = http://localhost:5079
+
+GET {{Add_2_Numbers_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
