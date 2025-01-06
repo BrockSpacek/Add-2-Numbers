@@ -1,0 +1,33 @@
+C:\Users\brock\OneDrive\Documents\CodeStack\Add 2 Numbers\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\brock\OneDrive\Documents\CodeStack\Add 2 Numbers\bin\Debug\net8.0\appsettings.json
+C:\Users\brock\OneDrive\Documents\CodeStack\Add 2 Numbers\bin\Debug\net8.0\Add 2 Numbers.exe
+C:\Users\brock\OneDrive\Documents\CodeStack\Add 2 Numbers\bin\Debug\net8.0\Add 2 Numbers.deps.json
+C:\Users\brock\OneDrive\Documents\CodeStack\Add 2 Numbers\bin\Debug\net8.0\Add 2 Numbers.runtimeconfig.json
+C:\Users\brock\OneDrive\Documents\CodeStack\Add 2 Numbers\bin\Debug\net8.0\Add 2 Numbers.dll
+C:\Users\brock\OneDrive\Documents\CodeStack\Add 2 Numbers\bin\Debug\net8.0\Add 2 Numbers.pdb
+C:\Users\brock\OneDrive\Documents\CodeStack\Add 2 Numbers\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\brock\OneDrive\Documents\CodeStack\Add 2 Numbers\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\brock\OneDrive\Documents\CodeStack\Add 2 Numbers\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\brock\OneDrive\Documents\CodeStack\Add 2 Numbers\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\brock\OneDrive\Documents\CodeStack\Add 2 Numbers\obj\Debug\net8.0\Add 2 Numbers.csproj.AssemblyReference.cache
+C:\Users\brock\OneDrive\Documents\CodeStack\Add 2 Numbers\obj\Debug\net8.0\Add 2 Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brock\OneDrive\Documents\CodeStack\Add 2 Numbers\obj\Debug\net8.0\Add 2 Numbers.AssemblyInfoInputs.cache
+C:\Users\brock\OneDrive\Documents\CodeStack\Add 2 Numbers\obj\Debug\net8.0\Add 2 Numbers.AssemblyInfo.cs
+C:\Users\brock\OneDrive\Documents\CodeStack\Add 2 Numbers\obj\Debug\net8.0\Add 2 Numbers.csproj.CoreCompileInputs.cache
+C:\Users\brock\OneDrive\Documents\CodeStack\Add 2 Numbers\obj\Debug\net8.0\Add 2 Numbers.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\brock\OneDrive\Documents\CodeStack\Add 2 Numbers\obj\Debug\net8.0\Add 2 Numbers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\brock\OneDrive\Documents\CodeStack\Add 2 Numbers\obj\Debug\net8.0\Add 2 Numbers.sourcelink.json
+C:\Users\brock\OneDrive\Documents\CodeStack\Add 2 Numbers\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\brock\OneDrive\Documents\CodeStack\Add 2 Numbers\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\brock\OneDrive\Documents\CodeStack\Add 2 Numbers\obj\Debug\net8.0\staticwebassets\msbuild.Add 2 Numbers.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\brock\OneDrive\Documents\CodeStack\Add 2 Numbers\obj\Debug\net8.0\staticwebassets\msbuild.build.Add 2 Numbers.props
+C:\Users\brock\OneDrive\Documents\CodeStack\Add 2 Numbers\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Add 2 Numbers.props
+C:\Users\brock\OneDrive\Documents\CodeStack\Add 2 Numbers\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Add 2 Numbers.props
+C:\Users\brock\OneDrive\Documents\CodeStack\Add 2 Numbers\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\brock\OneDrive\Documents\CodeStack\Add 2 Numbers\obj\Debug\net8.0\scopedcss\bundle\Add 2 Numbers.styles.css
+C:\Users\brock\OneDrive\Documents\CodeStack\Add 2 Numbers\obj\Debug\net8.0\Add 2 Nu.1A3AEBA2.Up2Date
+C:\Users\brock\OneDrive\Documents\CodeStack\Add 2 Numbers\obj\Debug\net8.0\Add 2 Numbers.dll
+C:\Users\brock\OneDrive\Documents\CodeStack\Add 2 Numbers\obj\Debug\net8.0\refint\Add 2 Numbers.dll
+C:\Users\brock\OneDrive\Documents\CodeStack\Add 2 Numbers\obj\Debug\net8.0\Add 2 Numbers.pdb
+C:\Users\brock\OneDrive\Documents\CodeStack\Add 2 Numbers\obj\Debug\net8.0\Add 2 Numbers.genruntimeconfig.cache
+C:\Users\brock\OneDrive\Documents\CodeStack\Add 2 Numbers\obj\Debug\net8.0\ref\Add 2 Numbers.dll
